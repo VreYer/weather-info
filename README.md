@@ -2,6 +2,10 @@
 
 After cloning the repository, do these steps:
 
-#### `cd react-createRef-form`
+#### `weather-info`
 #### `npm install`
 #### `npm start`
+
+
+here is a link for demo
+https://weatherinfolist.herokuapp.com/
