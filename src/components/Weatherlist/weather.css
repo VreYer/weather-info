@@ -1,0 +1,74 @@
+.main-lists-block {
+    margin-bottom: 16px;
+}
+
+.city-name {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.weather-item {
+    text-align: center;
+}
+
+.tab-date-area {
+    font-size: 17px;
+    font-weight: 400;
+    color: #949494;
+    margin-bottom: 30px;
+}
+
+.max-350 {
+    max-width: 350px;
+    margin: 0 auto;
+}
+
+.temperature {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.temperature img {
+    max-width: 100px;
+}
+
+.temperature .temperature-text {
+    font-size: 65px;
+    padding: 0 10px;
+    position: relative;
+}
+
+.temperature .temperature-text span {
+    position: absolute;
+    font-size: 20px;
+    font-weight: 700;
+    top: 14px;
+}
+
+.temp-description {
+    font-size: 20px;
+    margin: 8px 0 25px;
+}
+
+.temperature-range {
+    display: flex;
+    justify-content: space-around;
+    font-size: 15px;
+    font-weight: 600;
+    margin-top: 15px;
+}
+
+.temperature-additionals {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.temperature-additionals .add-item {
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    color: #757575;
+    font-size: 17px;
+}
